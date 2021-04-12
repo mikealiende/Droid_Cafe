@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="text_intro">Droid Dessert</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order_message">You ordered a donut</string>
+    <string name="ice_cream_order_message">You ordered a ice cream</string>
+    <string name="froyo_order_message">You ordered a froyo</string>
+    <string name="Order_text">Order</string>
+    <string name="Name">Name</string>
+    <string name="enter_name_hint">Enter your name...</string>
+    <string name="address_text">Address:</string>
+    <string name="enter_address_hint">Enter your Address...</string>
+    <string name="phone_label">Phone number:</string>
+    <string name="enter_phone_hint">Enter your Phone number...</string>
+    <string name="notes_label">Notes:</string>
+    <string name="enter_notes_hint">Enter notes or suggestions...</string>
+    <string name="delivey_label">Choose a delivery option.</string>
+    <string name="same_day">Same day messenger service</string>
+    <string name="nextday">Next day ground delivery</string>
+    <string name="pickup">Pick up</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="action_order">Order</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorties">Favorites</string>
+    <string name="action_order_msg">You selected Order</string>
+    <string name="action_status_msg">You selected Status</string>
+    <string name="action_favorites_msg">You selected Favorites</string>
+    <string name="action_contact_msg">You selected Contact</string>
+
+</resources>
